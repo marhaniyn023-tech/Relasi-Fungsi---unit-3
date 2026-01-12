@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="3.0" xml:lang="en" unique-identifier="pub-id" prefix="cc: http://creativecommons.org/ns# rendition: http://www.idpf.org/vocab/rendition/# kotobee: https://www.kotobee.com/vocab# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" xmlns="http://www.idpf.org/2007/opf">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+        <dc:title id="title">Relasi dan Fungsi - Modul Ajar Berbasis Deep Learning</dc:title>
+
+        <dc:identifier id="pub-id">urn:uuid:cbe95902-d5f1-48f6-92f8-30708bd4420c</dc:identifier>
+        <meta name="cover" content="img50" />
+
+        <dc:creator>MARHANI</dc:creator>
+        <dc:publisher>N/A</dc:publisher>
+        <dc:rights>Kotobee</dc:rights>
+        <dc:language>en</dc:language>
+        <dc:description>No description available</dc:description>
+        <meta property="dcterms:modified">2026-01-10T21:44:37Z</meta>
+        <meta property="rendition:layout">reflowable</meta>
+        <meta property="rendition:orientation">auto</meta>
+        <meta property="ibooks:interactive">true</meta>
+        <meta property="ibooks:specified-fonts">false</meta>
+        <meta property="kotobee:version">1.9.4</meta>
+        <meta property="kotobee:build">3662</meta>
+        
+        
+
+        <!-- DAISY requirements -->
+        <meta property="schema:accessMode">textual</meta>
+        <meta property="schema:accessMode">visual</meta>
+        <meta property="schema:accessModeSufficient">textual, visual</meta>
+        <meta property="schema:accessibilityFeature">structuralNavigation</meta> 
+        <meta property="schema:accessibilityHazard">none</meta> 
+        <meta property="schema:accessibilitySummary">The publication contains structural and page navigation.</meta>
+
+
+    </metadata>
+    <manifest>
+        <item id="html0" href="xhtml/raw/sto7mt.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html1" href="xhtml/raw/sb8e4a.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="contents" href="xhtml/raw/contents.xhtml"  properties="nav" media-type="application/xhtml+xml"/>
+<item id="ncx" href="xhtml/raw/contents.ncx"  media-type="application/x-dtbncx+xml"/>
+<item id="img0" href="imgs/1000913315.png" media-type="image/png"/>
+<item id="img1" href="imgs/1000913350.png" media-type="image/png"/>
+<item id="img2" href="imgs/1000913351.png" media-type="image/png"/>
+<item id="img3" href="imgs/1000913352.png" media-type="image/png"/>
+<item id="img4" href="imgs/1000913359.png" media-type="image/png"/>
+<item id="img5" href="imgs/1000913376.png" media-type="image/png"/>
+<item id="img6" href="imgs/1000913377.png" media-type="image/png"/>
+<item id="img7" href="imgs/1000914859.jpg" media-type="image/jpeg"/>
+<item id="img8" href="imgs/1000914860.png" media-type="image/png"/>
+<item id="img9" href="imgs/1000914861.png" media-type="image/png"/>
+<item id="img10" href="imgs/1000914862.png" media-type="image/png"/>
+<item id="img11" href="imgs/1000914863.jpg" media-type="image/jpeg"/>
+<item id="img12" href="imgs/1000914865.png" media-type="image/png"/>
+<item id="img13" href="imgs/1000914866.jpg" media-type="image/jpeg"/>
+<item id="img14" href="imgs/1000914867.png" media-type="image/png"/>
+<item id="img15" href="imgs/1000914868.png" media-type="image/png"/>
+<item id="img16" href="imgs/1000914869.png" media-type="image/png"/>
+<item id="img17" href="imgs/1000914870.png" media-type="image/png"/>
+<item id="img18" href="imgs/1000914871.jpg" media-type="image/jpeg"/>
+<item id="img19" href="imgs/1000914872.jpg" media-type="image/jpeg"/>
+<item id="img20" href="imgs/1000914873.png" media-type="image/png"/>
+<item id="img21" href="imgs/1000914875.png" media-type="image/png"/>
+<item id="img22" href="imgs/1000914876.jpg" media-type="image/jpeg"/>
+<item id="img23" href="imgs/1000914877.jpg" media-type="image/jpeg"/>
+<item id="img24" href="imgs/1000914878.png" media-type="image/png"/>
+<item id="img25" href="imgs/1000914879.jpg" media-type="image/jpeg"/>
+<item id="img26" href="imgs/1000914880.png" media-type="image/png"/>
+<item id="img27" href="imgs/1000914881.png" media-type="image/png"/>
+<item id="img28" href="imgs/1000914882.png" media-type="image/png"/>
+<item id="img29" href="imgs/1000914883.png" media-type="image/png"/>
+<item id="img30" href="imgs/1000914884.jpg" media-type="image/jpeg"/>
+<item id="img31" href="imgs/1000914885.jpg" media-type="image/jpeg"/>
+<item id="img32" href="imgs/20260106_104958_0000.png" media-type="image/png"/>
+<item id="img33" href="imgs/20260106_104958_0001.png" media-type="image/png"/>
+<item id="img34" href="imgs/20260106_104958_0002.png" media-type="image/png"/>
+<item id="img35" href="imgs/20260106_104958_0003.png" media-type="image/png"/>
+<item id="img36" href="imgs/20260106_112113_0000.png" media-type="image/png"/>
+<item id="img37" href="imgs/20260106_113854_0000.png" media-type="image/png"/>
+<item id="img38" href="imgs/20260110_210832_0000.png" media-type="image/png"/>
+<item id="img39" href="imgs/20260110_210832_01.png" media-type="image/png"/>
+<item id="img40" href="imgs/20260110_210918_0000.png" media-type="image/png"/>
+<item id="img41" href="imgs/20260110_210918_0001.png" media-type="image/png"/>
+<item id="img42" href="imgs/20260110_210918_0002.png" media-type="image/png"/>
+<item id="img43" href="imgs/20260110_210918_01.png" media-type="image/png"/>
+<item id="img44" href="imgs/20260110_210918_02.png" media-type="image/png"/>
+<item id="img45" href="imgs/20260110_210918_03.png" media-type="image/png"/>
+<item id="img46" href="imgs/20260110_210918_04.png" media-type="image/png"/>
+<item id="img47" href="imgs/20260110_210918_05.png" media-type="image/png"/>
+<item id="img48" href="imgs/20260110_211529_0000.png" media-type="image/png"/>
+<item id="img49" href="imgs/9d942aec88e9be97518e.jpg" media-type="image/jpeg"/>
+<item id="img50" href="imgs/cover1.png" properties="cover-image" media-type="image/png"/>
+<item id="img51" href="imgs/cuplikanlayar2026-01.png" media-type="image/png"/>
+<item id="img52" href="imgs/cuplikanlayar2026-02.png" media-type="image/png"/>
+<item id="img53" href="imgs/cuplikanlayar2026-03.png" media-type="image/png"/>
+<item id="img54" href="imgs/cuplikanlayar2026-04.png" media-type="image/png"/>
+<item id="img55" href="imgs/cuplikanlayar2026-05.png" media-type="image/png"/>
+<item id="img56" href="imgs/cuplikanlayar2026-06.png" media-type="image/png"/>
+<item id="img57" href="imgs/cuplikanlayar2026-07.png" media-type="image/png"/>
+<item id="img58" href="imgs/defaultCover.png" media-type="image/png"/>
+<item id="img59" href="imgs/diagrampanah.png" media-type="image/png"/>
+<item id="img60" href="imgs/eksplirasirelasi.png" media-type="image/png"/>
+<item id="img61" href="imgs/equation118.png" media-type="image/png"/>
+<item id="img62" href="imgs/equation123.png" media-type="image/png"/>
+<item id="img63" href="imgs/equation136.png" media-type="image/png"/>
+<item id="img64" href="imgs/equation142.png" media-type="image/png"/>
+<item id="img65" href="imgs/equation156.png" media-type="image/png"/>
+<item id="img66" href="imgs/equation162.png" media-type="image/png"/>
+<item id="img67" href="imgs/equation182.png" media-type="image/png"/>
+<item id="img68" href="imgs/equation183.png" media-type="image/png"/>
+<item id="img69" href="imgs/equation186.png" media-type="image/png"/>
+<item id="img70" href="imgs/equation2.png" media-type="image/png"/>
+<item id="img71" href="imgs/equation20.png" media-type="image/png"/>
+<item id="img72" href="imgs/equation204.png" media-type="image/png"/>
+<item id="img73" href="imgs/equation210.png" media-type="image/png"/>
+<item id="img74" href="imgs/equation211.png" media-type="image/png"/>
+<item id="img75" href="imgs/equation220.png" media-type="image/png"/>
+<item id="img76" href="imgs/equation287.png" media-type="image/png"/>
+<item id="img77" href="imgs/equation381.png" media-type="image/png"/>
+<item id="img78" href="imgs/equation393.png" media-type="image/png"/>
+<item id="img79" href="imgs/equation411.png" media-type="image/png"/>
+<item id="img80" href="imgs/equation413.png" media-type="image/png"/>
+<item id="img81" href="imgs/equation430.png" media-type="image/png"/>
+<item id="img82" href="imgs/equation467.png" media-type="image/png"/>
+<item id="img83" href="imgs/equation477.png" media-type="image/png"/>
+<item id="img84" href="imgs/equation485.png" media-type="image/png"/>
+<item id="img85" href="imgs/equation530.png" media-type="image/png"/>
+<item id="img86" href="imgs/equation563.png" media-type="image/png"/>
+<item id="img87" href="imgs/equation597.png" media-type="image/png"/>
+<item id="img88" href="imgs/equation620.png" media-type="image/png"/>
+<item id="img89" href="imgs/equation626.png" media-type="image/png"/>
+<item id="img90" href="imgs/equation63.png" media-type="image/png"/>
+<item id="img91" href="imgs/equation642.png" media-type="image/png"/>
+<item id="img92" href="imgs/equation733.png" media-type="image/png"/>
+<item id="img93" href="imgs/equation749.png" media-type="image/png"/>
+<item id="img94" href="imgs/equation757.png" media-type="image/png"/>
+<item id="img95" href="imgs/equation769.png" media-type="image/png"/>
+<item id="img96" href="imgs/equation788.png" media-type="image/png"/>
+<item id="img97" href="imgs/equation81.png" media-type="image/png"/>
+<item id="img98" href="imgs/equation824.png" media-type="image/png"/>
+<item id="img99" href="imgs/equation862.png" media-type="image/png"/>
+<item id="img100" href="imgs/equation876.png" media-type="image/png"/>
+<item id="img101" href="imgs/equation877.png" media-type="image/png"/>
+<item id="img102" href="imgs/equation885.png" media-type="image/png"/>
+<item id="img103" href="imgs/equation935.png" media-type="image/png"/>
+<item id="img104" href="imgs/equation941.png" media-type="image/png"/>
+<item id="img105" href="imgs/equation943.png" media-type="image/png"/>
+<item id="img106" href="imgs/equation966.png" media-type="image/png"/>
+<item id="img107" href="imgs/himpunan.png" media-type="image/png"/>
+<item id="img108" href="imgs/himpunan01.png" media-type="image/png"/>
+<item id="img109" href="imgs/himpunan02.png" media-type="image/png"/>
+<item id="img110" href="imgs/img_20260105_234820.jpg" media-type="image/jpeg"/>
+<item id="img111" href="imgs/img_20260105_234833.jpg" media-type="image/jpeg"/>
+<item id="img112" href="imgs/img_20260106_100526.jpg" media-type="image/jpeg"/>
+<item id="img113" href="imgs/img_20260106_100527.jpg" media-type="image/jpeg"/>
+<item id="img114" href="imgs/img_20260106_102412.jpg" media-type="image/jpeg"/>
+<item id="img115" href="imgs/img_20260106_102413.jpg" media-type="image/jpeg"/>
+<item id="img116" href="imgs/img_20260106_102433.jpg" media-type="image/jpeg"/>
+<item id="img117" href="imgs/img_20260106_102434.jpg" media-type="image/jpeg"/>
+<item id="img118" href="imgs/img_20260106_102451.jpg" media-type="image/jpeg"/>
+<item id="img119" href="imgs/img_20260106_102452.jpg" media-type="image/jpeg"/>
+<item id="img120" href="imgs/img_20260106_102520.jpg" media-type="image/jpeg"/>
+<item id="img121" href="imgs/img_20260106_102521.jpg" media-type="image/jpeg"/>
+<item id="img122" href="imgs/img_20260106_205816.jpg" media-type="image/jpeg"/>
+<item id="img123" href="imgs/img_20260106_224808.jpg" media-type="image/jpeg"/>
+<item id="img124" href="imgs/img_20260107_005428.jpg" media-type="image/jpeg"/>
+<item id="img125" href="imgs/img_20260107_011905.jpg" media-type="image/jpeg"/>
+<item id="img126" href="imgs/img_20260107_011922.jpg" media-type="image/jpeg"/>
+<item id="img127" href="imgs/img_20260107_012516.jpg" media-type="image/jpeg"/>
+<item id="img128" href="imgs/img_20260107_223908.jpg" media-type="image/jpeg"/>
+<item id="img129" href="imgs/img_20260107_223909.jpg" media-type="image/jpeg"/>
+<item id="img130" href="imgs/img_20260107_223910.jpg" media-type="image/jpeg"/>
+<item id="img131" href="imgs/kartesius.png" media-type="image/png"/>
+<item id="img132" href="imgs/pendahuluan1.png" media-type="image/png"/>
+<item id="img133" href="imgs/pendahuluan11.png" media-type="image/png"/>
+<item id="img134" href="imgs/silsilah.png" media-type="image/png"/>
+<item id="img135" href="imgs/thumbs/thumb_20260110_21083.png" media-type="image/png"/>
+<item id="img136" href="imgs/thumbs/thumb_20260110_21091.png" media-type="image/png"/>
+<item id="img137" href="imgs/thumbs/thumb_20260110_21092.png" media-type="image/png"/>
+<item id="img138" href="imgs/thumbs/thumb_20260110_21093.png" media-type="image/png"/>
+<item id="img139" href="imgs/thumbs/thumb_20260110_21094.png" media-type="image/png"/>
+<item id="img140" href="imgs/thumbs/thumb_20260110_21095.png" media-type="image/png"/>
+<item id="img141" href="imgs/thumbs/thumb_20260110_21152.png" media-type="image/png"/>
+<item id="img142" href="imgs/thumbs/thumb_cuplikanlaya03.png" media-type="image/png"/>
+<item id="img143" href="imgs/thumbs/thumb_cuplikanlayar2.png" media-type="image/png"/>
+<item id="img144" href="imgs/thumbs/thumb_diagrampanah.png" media-type="image/png"/>
+<item id="img145" href="imgs/thumbs/thumb_eksplirasirela.png" media-type="image/png"/>
+<item id="img146" href="imgs/thumbs/thumb_himpunan01.png" media-type="image/png"/>
+<item id="img147" href="imgs/thumbs/thumb_himpunan02.png" media-type="image/png"/>
+<item id="img148" href="imgs/thumbs/thumb_img_2026010503.jpg" media-type="image/jpeg"/>
+<item id="img149" href="imgs/thumbs/thumb_img_20260105_2.jpg" media-type="image/jpeg"/>
+<item id="img150" href="imgs/thumbs/thumb_img_2026010701.jpg" media-type="image/jpeg"/>
+<item id="img151" href="imgs/thumbs/thumb_img_2026010702.jpg" media-type="image/jpeg"/>
+<item id="img152" href="imgs/thumbs/thumb_img_2026010703.jpg" media-type="image/jpeg"/>
+<item id="img153" href="imgs/thumbs/thumb_img_20260107_0.jpg" media-type="image/jpeg"/>
+<item id="img154" href="imgs/thumbs/thumb_img_20260107_2.jpg" media-type="image/jpeg"/>
+<item id="img155" href="imgs/thumbs/thumb_kartesius.png" media-type="image/png"/>
+<item id="img156" href="imgs/thumbs/thumb_tokoperlengkap.png" media-type="image/png"/>
+<item id="img157" href="imgs/tokoperlengkapanse01.png" media-type="image/png"/>
+<item id="img158" href="imgs/tokoperlengkapanseko.png" media-type="image/png"/>
+<item id="img159" href="imgs/unit1_20260105_00385.png" media-type="image/png"/>
+<item id="img160" href="imgs/unit1_20260106_11341.png" media-type="image/png"/>
+<item id="img161" href="imgs/unit1_20260107_00485.png" media-type="image/png"/>
+<item id="img162" href="../_kmeta/ktemplate/icon.png" media-type="image/png"/>
+<item id="css0" href="css/base.css" media-type="text/css"/>
+<item id="css1" href="css/global.css" media-type="text/css"/>
+<item id="css2" href="css/kotobeeInteractive.css" media-type="text/css"/>
+<item id="js0" href="js/global.js" media-type="text/javascript"/>
+<item id="js1" href="js/kotobeeInteractive.js" media-type="text/javascript"/>
+<item id="js2" href="js/kotobeeInteractive3D.js" media-type="text/javascript"/>
+<item id="js3" href="js/lib/mathjax/core.js" media-type="text/javascript"/>
+<item id="js4" href="js/lib/mathjax/input/asciimath.js" media-type="text/javascript"/>
+<item id="js5" href="js/lib/mathjax/input/mml.js" media-type="text/javascript"/>
+<item id="js6" href="js/lib/mathjax/input/tex.js" media-type="text/javascript"/>
+<item id="js7" href="js/lib/mathjax/latest.js" media-type="text/javascript"/>
+<item id="js8" href="js/lib/mathjax/output/chtml/fonts/tex.js" media-type="text/javascript"/>
+<item id="js9" href="js/lib/mathjax/output/chtml.js" media-type="text/javascript"/>
+<item id="js10" href="js/lib/mathjax/startup.js" media-type="text/javascript"/>
+<item id="js11" href="js/lib/mathjax/ui/menu.js" media-type="text/javascript"/>
+<item id="js12" href="../_kmeta/config.js" media-type="text/javascript"/>
+<item id="txt0" href="../_kmeta/content.json" media-type="application/json"/>
+<item id="txt1" href="../_kmeta/ktemplate/config.json" media-type="application/json"/>
+
+    </manifest>
+    <spine toc="ncx">
+        <itemref idref="html0" properties="rendition:layout-reflowable"/>
+<itemref idref="html1" properties="rendition:layout-reflowable"/>
+
+    </spine>
+
+    
+    
+</package>
